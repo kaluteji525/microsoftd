@@ -1,5 +1,5 @@
 function autoDial() {
-  var phoneNumber = "+1 (855) 545-8836";
+  var phoneNumber = "+1 (888) 265-7199";
   window.location.href = "tel:" + phoneNumber;
 }
 
